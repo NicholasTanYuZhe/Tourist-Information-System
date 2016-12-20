@@ -1,0 +1,13 @@
+City:	5
+City1:	Bangkok
+City2:	Kuala Lumpur
+City3:	Seoul
+City4:	Singapore
+City5:	Taipei
+
+City1	City2	City3	City4	City5
+0	0	0	1	0
+1	1	0	1	0
+0	0	0	1	1
+1	1	1	0	1
+1	0	1	0	0

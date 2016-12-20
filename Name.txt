@@ -1,0 +1,35 @@
+6	Bangkok
+
+1	Kuala Lumpur
+2	231	Stadium Kuala Lumpur	No 1234 Jalan Stadium, 61059 Kuala Lumpur	03-43546346	Daily	10
+1	101	Kuala Lumpur Golf & Country Club	10 Jalan 1/70D, Bukit Kiara, 60000, Kuala Lumpur, Malaysia	+60320119188	Mon - Fri (7am to 11pm), Weekend (7am to 10pm)
+1	102	The Challenger Sports Centre	Jalan Metro Perdana Barat, Taman Kepong, 52100 Kuala Lumpur, Malaysia	+60362727131	Mon - Fri (10am to 11pm), Weekend (9am to 11pm)
+2	105	Asian Art Museum	Jalan Ilmu, 50603 Kuala Lumpur, Malaysia	+60379571066	Mon - Thu (9am to 5pm), Fri (9am to 5pm)	0
+3	106	Kuala Lumpur City Centre(KLCC)	Suria KLCC, Kuala Lumpur City Centre, 50088 Kuala Lumpur, Malaysia	+60323822828	Daily (10am to 10pm)
+3	107	Pavillion Kuala Lumpur	168 Jalan Bukit Bintang, 55100 Kuala Lumpur, Malaysia	+60126594182	Daily (10am to 10pm)
+3	108	Berjaya Times Square	1 Jalan Imbi, 55100 Kuala Lumpur, Malaysia	+60321173111	Daily (10am to 10pm)
+
+2	Seoul
+1	109	Jamsil Sports Complex	10 Jamsil-dong, Songpa-gu, Seoul, Korea	+82222408800	24 hours
+1	110	Seoul Plaza Ice Skating Rink	110 Sejong-daero, Jung-gu, Seoul Taepyeongno 1-ga, Korea	+8227040353051	Sun - Thu (10am to 10:30pm), Fri - Sat (10am to 11pm)
+1	111	Kukkiwon	32 Teheran 7 gil, Gangnam-gu, Seoul, Korea	+8225671058	Daily (9am to 11pm)
+2	112	Dong-Lim Knot Museum	11-7 Gahoe-dong, Jongno-gu, Seoul-si, Korea	+82236732778	Tue - Sun (10am to 6pm)	3
+2	113	Teddy Bear Museum	105 Namsangongwon-gil, Yongsan-gu, Seoul, Korea	+82234559277	Sun - Fri (10am to 11pm), Sat (10am to 12am)	5
+2	114	National Museum of Korea	137 Seobinggo-ro, Yongsan-gu, Seoul-si, Korea	+82220779000	Tue & Thu & Fri (9am to 6pm), Wed & Sat (9am to 9pm), Sun (9am to 7pm)	3
+3	115	Doosan Tower	275 Jangchungdan-ro, Jung-gu, Seoul, Korea	+82233983333	Mon - Sat (10:30am to 5am), Sun (10:30am to 12am)
+3	116	Coex Mall	513 Yeongdong-daero, Gangnam-gu, Seoul, Korea	+82260025300	Daily (10am to 10pm)
+3	117	Migiore Dongdaemun	18-185, Euljiro6(yuk)-ga, Jung-gu, Seoul, Korea	+82233932802	Tue - Sun (10:30am to 5am)
+
+3	Singapore
+1	118	Singapore Indoor Stadium	2 Stadium Walk, Singapore, 397691	+6566538900	Mon - Fri (9am to 6pm)
+1	119	Water Sports Centre	8 Stadium Walk, Singapore, 397699	+6566538900	Mon - Sun (7am to 8pm), Public holidays (7am to 10pm)
+1	120	National Stadium	1 Stadium Dr, Singapore 397629	+6566538900	Mon - Fri (9am to 6pm), Sat (9am to 1pm)
+1	121	The Rink	2 Jurong East Central, Level 3, Jcube, Singapore 609731	+6566842374	Mon - Fri (9:30am to 9pm), Sat (9:30am to 11:30pm), Sun (9:30am to 9pm)
+2	122	Singapore Art Museum	71 Bras Basah Road, Singapore 189555	+6565899580	Sat - Thu (10am to 7pm), Fri (10am to 9pm)	2
+2	123	National Museum of Singapore	93 Stamford Road, Singapore 178897	+6563323659	Mon - Sun (10am to 6pm)	0
+2	124	Peranakan Museum Singapore	39 Armenian Street, Singapore 179941	+6563327591	Sat - Thu (10am to 7pm), Fri (10am to 9pm)	2
+3	125	ION Orchard	2 Orchard Turn, Singapore 238801	+6562388228	Daily (10am to 10pm)
+3	126	Orchard Central	181 Orchard Road, Singapore 238801	+6562381051	Daily (11am to 10pm)
+
+5	Taipei
+
